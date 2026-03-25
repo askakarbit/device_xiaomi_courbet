@@ -15,7 +15,7 @@ $(call inherit-product, device/xiaomi/courbet/device.mk)
 # Inherit some common Lineage stuff.
 $(call inherit-product, vendor/custom/config/common_full_phone.mk)
 
-PRODUCT_NAME := lineage_courbet
+PRODUCT_NAME := custom_courbet
 PRODUCT_DEVICE := courbet
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Mi 11 Lite 4G
